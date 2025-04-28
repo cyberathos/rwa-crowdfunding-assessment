@@ -1,0 +1,138 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "Luxury Apartment",
+      "description": "A beautiful apartment in the city center.",
+      "total_fund": 1234,
+      "featured": false
+    },
+    {
+      "id": "2",
+      "title": "Beach House",
+      "description": "A lovely beach house with ocean views.",
+      "total_fund": 456,
+      "featured": false
+    },
+    {
+      "id": "3",
+      "title": "Mountain Cabin",
+      "description": "A cozy cabin in the mountains, perfect for winter getaways.",
+      "total_fund": 789,
+      "featured": false
+    },
+    {
+      "id": "4",
+      "title": "Modern Loft",
+      "description": "A stylish loft with industrial design in the heart of the city.",
+      "total_fund": 2345,
+      "featured": true
+    },
+    {
+      "id": "5",
+      "title": "Country Cottage",
+      "description": "A charming cottage surrounded by nature and tranquility.",
+      "total_fund": 678,
+      "featured": false
+    },
+    {
+      "id": "6",
+      "title": "Penthouse Suite",
+      "description": "An exquisite penthouse with panoramic city views.",
+      "total_fund": 3456,
+      "featured": true
+    },
+    {
+      "id": "7",
+      "title": "Suburban Family Home",
+      "description": "A spacious home in a friendly neighborhood, ideal for families.",
+      "total_fund": 1200,
+      "featured": false
+    },
+    {
+      "id": "8",
+      "title": "Coastal Villa",
+      "description": "A luxurious villa located right on the beach.",
+      "total_fund": 5000,
+      "featured": false
+    },
+    {
+      "id": "9",
+      "title": "Urban Studio",
+      "description": "A compact studio apartment perfect for city living.",
+      "total_fund": 900,
+      "featured": true
+    },
+    {
+      "id": "10",
+      "title": "Historic Mansion",
+      "description": "A beautifully restored mansion with rich history.",
+      "total_fund": 1500,
+      "featured": false
+    }
+  ],
+  "users": [
+    {
+      "id": "273e",
+      "email": "admin@gmail.com",
+      "password": "password",
+      "username": "admin"
+    },
+    {
+      "id": "a306",
+      "email": "test@gmail.com",
+      "password": "password",
+      "username": "test"
+    },
+    {
+      "id": "d031",
+      "email": "jms.bond.177@gamil.com",
+      "password": "Test.1234!",
+      "username": "james"
+    }
+  ],
+  "investments": [
+    {
+      "id": "1",
+      "property_id": "5",
+      "user_id": "273e",
+      "amount": 125
+    },
+    {
+      "id": "2",
+      "property_id": "2",
+      "user_id": "273e",
+      "amount": 75
+    },
+    {
+      "id": "3",
+      "property_id": "2",
+      "user_id": "a306",
+      "amount": 1200
+    },
+    {
+      "id": "4",
+      "property_id": "7",
+      "user_id": "273e",
+      "amount": 250
+    },
+    {
+      "id": "f6a3",
+      "property_id": "9",
+      "user_id": "273e",
+      "amount": "300"
+    },
+    {
+      "id": "b864",
+      "property_id": "4",
+      "user_id": "d031",
+      "amount": "500"
+    },
+    {
+      "id": "a28f",
+      "property_id": "4",
+      "user_id": "d031",
+      "amount": "500"
+    }
+  ]
+}
